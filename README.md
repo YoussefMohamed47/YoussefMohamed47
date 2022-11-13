@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youssefmohamed47&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmohamed47" /> </p>
 
-<p align="left"  style="margin-left:5;"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefmohamed47" alt="youssefmohamed47" /></a> </p>
+<p align="left" display: flex
+justify-content: space-between > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefmohamed47" alt="youssefmohamed47" /></a> </p>
 
 - 🔭 I’m currently working on **Nakdi Pay,Yanzo Supplier, Yanzo Delegate and Revolt**
 
