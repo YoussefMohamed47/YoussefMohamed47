@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **jomohamed87@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TTqhjr5U1oUihoPs77M5tCJ2-tUlX7Zk/view?usp=share_link](https://drive.google.com/file/d/1TTqhjr5U1oUihoPs77M5tCJ2-tUlX7Zk/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TTqhjr5U1oUihoPs77M5tCJ2-tUlX7Zk/view?usp=share_link](https://drive.google.com/file/d/1TEkIMXITZ1DIMBwFgQSVMfLle9WF6sls/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
