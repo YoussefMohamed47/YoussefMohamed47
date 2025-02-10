@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youssefmohamed47" alt="youssefmohamed47" /></a> </p>
 
-- 🔭 I’m currently working on **TreeCode Shipment, Malak, Nakdi Pay, Yanzo Supplier, Yanzo Delegate and Revolt**
+- 🔭 I’m currently working on **Icons Planner(Task Management) and Water Meter App**
 
 - 🌱 I’m currently learning **Creative Solutions, Clean Code, and State Management**
 
