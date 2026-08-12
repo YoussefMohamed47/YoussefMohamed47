@@ -2,12 +2,18 @@
 <h3 align="center">Flutter Developer</h3>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=youssefmohamed47&label=Profile%20views&color=0e75b6&style=flat" alt="youssefmohamed47" />
+  <img
+    src="https://komarev.com/ghpvc/?username=youssefmohamed47&label=Profile%20views&color=0e75b6&style=flat"
+    alt="youssefmohamed47"
+  />
 </p>
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-tawny.vercel.app/?username=youssefmohamed47" alt="youssefmohamed47" />
+    <img
+      src="https://github-profile-trophy-tawny.vercel.app/?username=youssefmohamed47"
+      alt="youssefmohamed47"
+    />
   </a>
 </p>
 
@@ -17,33 +23,75 @@
 - 👨‍💻 All of my projects are available at [github.com/YoussefMohamed47](https://github.com/YoussefMohamed47)
 - 💬 Ask me about **Flutter and Dart**
 - 📫 How to reach me: **jomohamed87@gmail.com**
-- 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/17VZt0GVVKhyiMWf6H8-te991z9WveheY/view?usp=drive_link)
+- 📄 Know about my experience: [My Resume](https://drive.google.com/file/d/10eaBLg552z4BieWmYYFOL2F3MXWS9Stm/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/youssef-mohamed-sayed/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
+  <a href="https://www.linkedin.com/in/youssef-mohamed-sayed/" target="_blank">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/></a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
+  </a>
+
+  <a href="https://dart.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  </a>
+
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
+  </a>
+
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+  </a>
+
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/>
+  </a>
+
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=youssefmohamed47&show_icons=true&locale=en&layout=compact" alt="youssefmohamed47" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs?username=youssefmohamed47&show_icons=true&locale=en&layout=compact"
+    alt="Top Languages"
+  />
 </p>
+
 <p align="left">
-  <img src="https://github-stats-extended.vercel.app/api?username=youssefmohamed47&show_icons=true&locale=en" alt="youssefmohamed47" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=youssefmohamed47&show_icons=true&locale=en"
+    alt="GitHub Stats"
+  />
 </p>
+
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=youssefmohamed47" alt="youssefmohamed47" />
+  <img
+    src="https://streak-stats.demolab.com/?user=youssefmohamed47"
+    alt="GitHub Streak"
+  />
 </p>
