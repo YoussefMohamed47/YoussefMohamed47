@@ -39,10 +39,10 @@
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=youssefmohamed47&show_icons=true&locale=en&layout=compact" alt="youssefmohamed47" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=youssefmohamed47&show_icons=true&locale=en&layout=compact" alt="youssefmohamed47" />
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefmohamed47&show_icons=true&locale=en" alt="youssefmohamed47" />
+  <img src="https://github-stats-extended.vercel.app/api?username=youssefmohamed47&show_icons=true&locale=en" alt="youssefmohamed47" />
 </p>
 <p align="left">
   <img src="https://streak-stats.demolab.com/?user=youssefmohamed47" alt="youssefmohamed47" />
