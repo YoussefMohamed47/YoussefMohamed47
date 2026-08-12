@@ -153,7 +153,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=youssefmohamed47"
+    src="https://streak-stats.demolab.com/?user=youssefmohamed47](https://streak-stats.demolab.com?user=YoussefMohamed47)"
     alt="GitHub Streak"
   />
 </p>
