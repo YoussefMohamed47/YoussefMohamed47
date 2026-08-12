@@ -44,3 +44,6 @@
 <p align="left">
   <img src="https://github-stats-extended.vercel.app/api?username=youssefmohamed47&show_icons=true&locale=en" alt="youssefmohamed47" />
 </p>
+<p align="left">
+  <img src="https://streak-stats.demolab.com/?user=youssefmohamed47" alt="youssefmohamed47" />
+</p>
